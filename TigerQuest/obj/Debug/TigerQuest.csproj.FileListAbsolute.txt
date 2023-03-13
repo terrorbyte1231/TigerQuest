@@ -1,0 +1,8 @@
+C:\Users\sevri\Desktop\Project\C-sharp\TigerQuest\TigerQuest\bin\Debug\TigerQuest.exe.config
+C:\Users\sevri\Desktop\Project\C-sharp\TigerQuest\TigerQuest\bin\Debug\TigerQuest.exe
+C:\Users\sevri\Desktop\Project\C-sharp\TigerQuest\TigerQuest\bin\Debug\TigerQuest.pdb
+C:\Users\sevri\Desktop\Project\C-sharp\TigerQuest\TigerQuest\obj\Debug\TigerQuest.csproj.AssemblyReference.cache
+C:\Users\sevri\Desktop\Project\C-sharp\TigerQuest\TigerQuest\obj\Debug\TigerQuest.csproj.SuggestedBindingRedirects.cache
+C:\Users\sevri\Desktop\Project\C-sharp\TigerQuest\TigerQuest\obj\Debug\TigerQuest.csproj.CoreCompileInputs.cache
+C:\Users\sevri\Desktop\Project\C-sharp\TigerQuest\TigerQuest\obj\Debug\TigerQuest.exe
+C:\Users\sevri\Desktop\Project\C-sharp\TigerQuest\TigerQuest\obj\Debug\TigerQuest.pdb
